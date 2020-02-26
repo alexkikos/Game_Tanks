@@ -1,0 +1,6 @@
+f:\Мои документы\c+++\ШАГ\C#\Tanks\MyClassLib\bin\Debug\MyClassLib.dll
+f:\Мои документы\c+++\ШАГ\C#\Tanks\MyClassLib\bin\Debug\MyClassLib.pdb
+f:\Мои документы\c+++\ШАГ\C#\Tanks\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+f:\Мои документы\c+++\ШАГ\C#\Tanks\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+f:\Мои документы\c+++\ШАГ\C#\Tanks\MyClassLib\obj\Debug\MyClassLib.dll
+f:\Мои документы\c+++\ШАГ\C#\Tanks\MyClassLib\obj\Debug\MyClassLib.pdb
